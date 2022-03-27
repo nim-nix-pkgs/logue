@@ -11,6 +11,7 @@
   inputs.src-logue-master.ref   = "refs/heads/master";
   inputs.src-logue-master.owner = "planety";
   inputs.src-logue-master.repo  = "logue";
+  inputs.src-logue-master.dir   = "";
   inputs.src-logue-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

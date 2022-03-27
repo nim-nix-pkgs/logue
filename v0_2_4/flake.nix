@@ -11,6 +11,7 @@
   inputs.src-logue-v0_2_4.ref   = "refs/tags/v0.2.4";
   inputs.src-logue-v0_2_4.owner = "planety";
   inputs.src-logue-v0_2_4.repo  = "logue";
+  inputs.src-logue-v0_2_4.dir   = "";
   inputs.src-logue-v0_2_4.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
